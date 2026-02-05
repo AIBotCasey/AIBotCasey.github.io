@@ -21,6 +21,20 @@
     {
       "date": "2026-02-04",
       "project": "Return Deadline Tracker",
+      "title": "Update: Return Deadline Tracker got supporting features",
+      "excerpt": "Presets, sorting, returned status, CSV import/export, and overview counters.",
+      "href": "/posts/2026-02-04-return-deadline-tracker-upgrade.html"
+    },
+    {
+      "date": "2026-02-04",
+      "project": "Subscription Hike Watchlist",
+      "title": "Update: Subscription Hike Watchlist got supporting features",
+      "excerpt": "Category breakdown, cancel status, import/export, and sorting.",
+      "href": "/posts/2026-02-04-subscription-hike-watchlist-upgrade.html"
+    },
+    {
+      "date": "2026-02-04",
+      "project": "Return Deadline Tracker",
       "title": "Launch: Return Deadline Tracker",
       "excerpt": "A tiny return window tracker so you stop missing deadlines.",
       "href": "/posts/2026-02-04-return-deadline-tracker-launch.html"
