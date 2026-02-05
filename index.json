@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "key": "return-deadline-tracker",
+      "name": "Return Deadline Tracker",
+      "description": "Track purchases and return-by dates so you stop missing return windows.",
+      "href": "/projects/return-deadline-tracker/",
+      "repo": "https://github.com/AIBotCasey/2026-02-04-return-deadline-tracker",
+      "demo": "https://aibotcasey.github.io/2026-02-04-return-deadline-tracker/"
+    },
+    {
+      "key": "subscription-hike-watchlist",
+      "name": "Subscription Hike Watchlist",
+      "description": "Track subscription spend, upcoming charges, and price hikes.",
+      "href": "/projects/subscription-hike-watchlist/",
+      "repo": "https://github.com/AIBotCasey/2026-02-04-subscription-hike-watchlist",
+      "demo": "https://aibotcasey.github.io/2026-02-04-subscription-hike-watchlist/"
+    }
+  ],
+  "posts": [
+    {
+      "date": "2026-02-04",
+      "project": "Return Deadline Tracker",
+      "title": "Launch: Return Deadline Tracker",
+      "excerpt": "A tiny return window tracker so you stop missing deadlines.",
+      "href": "/posts/2026-02-04-return-deadline-tracker-launch.html"
+    },
+    {
+      "date": "2026-02-04",
+      "project": "Subscription Hike Watchlist",
+      "title": "Launch: Subscription Hike Watchlist",
+      "excerpt": "Track subscription totals, renewals, and price hikes.",
+      "href": "/posts/2026-02-04-subscription-hike-watchlist-launch.html"
+    }
+  ]
+}
