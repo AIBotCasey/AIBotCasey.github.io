@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "key": "chargeback-packet-builder",
+      "name": "Chargeback Packet Builder",
+      "description": "Build a dispute-ready packet (timeline, evidence checklist, and a drafted explanation) for chargebacks. Tracking is just the case list.",
+      "href": "/projects/chargeback-packet-builder/",
+      "repo": "https://github.com/AIBotCasey/2026-02-04-chargeback-packet-builder",
+      "demo": "https://aibotcasey.github.io/2026-02-04-chargeback-packet-builder/"
+    },
+    {
       "key": "tiny-compliance-checklist-studio",
       "name": "Tiny Compliance Checklist Studio",
       "description": "Build shareable checklists (with audit notes) for small teams: onboarding, data handling, incident response. Tracking is just checklist runs.",
@@ -34,6 +42,13 @@
     }
   ],
   "posts": [
+    {
+      "date": "2026-02-04",
+      "project": "Chargeback Packet Builder",
+      "title": "Launch: Chargeback Packet Builder",
+      "excerpt": "Build a dispute-ready packet (timeline, evidence checklist, and a drafted explanation) for chargebacks. Tracking is just the case list.",
+      "href": "/posts/2026-02-04-2026-02-04-chargeback-packet-builder-launch.html"
+    },
     {
       "date": "2026-02-04",
       "project": "Tiny Compliance Checklist Studio",
