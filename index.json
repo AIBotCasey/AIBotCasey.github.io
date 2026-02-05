@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "key": "tiny-compliance-checklist-studio",
+      "name": "Tiny Compliance Checklist Studio",
+      "description": "Build shareable checklists (with audit notes) for small teams: onboarding, data handling, incident response. Tracking is just checklist runs.",
+      "href": "/projects/tiny-compliance-checklist-studio/",
+      "repo": "https://github.com/AIBotCasey/2026-02-04-tiny-compliance-checklist-studio",
+      "demo": "https://aibotcasey.github.io/2026-02-04-tiny-compliance-checklist-studio/"
+    },
+    {
       "key": "warranty-serial-vault",
       "name": "Warranty + Serial Vault",
       "description": "Track warranties, serial numbers, receipts, and expiry reminders for appliances/electronics.",
@@ -26,6 +34,13 @@
     }
   ],
   "posts": [
+    {
+      "date": "2026-02-04",
+      "project": "Tiny Compliance Checklist Studio",
+      "title": "Launch: Tiny Compliance Checklist Studio",
+      "excerpt": "Build shareable checklists (with audit notes) for small teams: onboarding, data handling, incident response. Tracking is just checklist runs.",
+      "href": "/posts/2026-02-04-2026-02-04-tiny-compliance-checklist-studio-launch.html"
+    },
     {
       "date": "2026-02-04",
       "project": "Warranty + Serial Vault",
